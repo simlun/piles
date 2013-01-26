@@ -1,4 +1,4 @@
-(ns piles.util.credential_reader)
+(ns piles.testutil.credential_reader)
 
 (def credential-file "test_user.clj")
 
